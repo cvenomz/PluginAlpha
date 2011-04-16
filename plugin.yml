@@ -1,0 +1,14 @@
+name: PluginAlpha
+main: me.cvenomz.PluginAlpha.PluginAlpha
+version: 1.0
+author: cvenomz
+description: >
+             First Plugin
+
+commands:
+  pluginalpha:
+    aliases: [pa]
+    description: Toggles PluginAlpha
+    usage: |
+           /<command>
+           Example: /<command> | Toggles PluginAlpha
